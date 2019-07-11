@@ -16,3 +16,5 @@ eg. https://yourwebsiteurl.com/wp-admin/admin.php?page=sylr_settings
 # Redirect Users based on specific roles
 ![Screenshot2](https://github.com/shrikant9907/wp-redirect-manager/blob/master/images/rolebased-redirection.png)
 
+# Add more redirection option
+![Screenshot2](https://github.com/shrikant9907/wp-redirect-manager/blob/master/images/full-screenshot.png)
